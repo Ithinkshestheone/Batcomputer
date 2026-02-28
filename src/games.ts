@@ -31,5 +31,13 @@ export const GAMES: Game[] = [
     thumbnail: 'https://picsum.photos/seed/snow/400/225',
     iframeUrl: 'https://html5.gamedistribution.com/rvvASMiM/3b79a8537ebc414fb4f9672a9b8c68c8/index.html?utm_source=gamedistribution.com&utm_medium=snow-rider-3d&utm_campaign=block-and-redirect&gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL2h0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tLzNiNzlhODUzN2ViYzQxNGZiNGY5NjcyYTliOGM2OGM4Lz91dG1fc291cmNlPWdhbWVkaXN0cmlidXRpb24uY29tJnV0bV9tZWRpdW09c25vdy1yaWRlci0zZCZ1dG1fY2FtcGFpZ249YmxvY2stYW5kLXJlZGlyZWN0IiwicGFyZW50RG9tYWluIjoiaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20iLCJ0b3BEb21haW4iOiJodG1sNS5nYW1lZGlzdHJpYnV0aW9uLmNvbSIsImhhc0ltcHJlc3Npb24iOmZhbHNlLCJsb2FkZXJFbmFibGVkIjp0cnVlLCJob3N0IjoiaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20iLCJ2ZXJzaW9uIjoiMS41LjE4In0%253D',
     category: 'Action'
+  },
+  {
+    id: 'smash-karts',
+    title: 'Smash Karts',
+    description: 'A high-speed multiplayer kart battle arena. Drive fast, fire rockets, and make big explosions.',
+    thumbnail: 'https://picsum.photos/seed/kart/400/225',
+    iframeUrl: './smash-karts.html',
+    category: 'Action'
   }
 ];
